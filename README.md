@@ -15,12 +15,12 @@ thesis work. It also contains a notebook to illustrate the use of the models on 
 Clone the repositery 
 
 git clone https://github.com/nathleve/dbiForest
+
 cd dbiForest
 
 install dependencies 
-pip install -r requirements.txt
 
-Structure du dépot 
+pip install -r requirements.txt
 
 ## Repository structure 
 
